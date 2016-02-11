@@ -54,7 +54,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_ENABLE 1
 #define ws2812_PORTREG  PORTD
 #define ws2812_DDRREG   DDRD
-#define ws2812_pin PD6
+#define ws2812_pin PD5
 #define RGBLED_NUM 16    // Number of LEDs
 #ifndef RGBLIGHT_HUE_STEP
 #define RGBLIGHT_HUE_STEP 10
