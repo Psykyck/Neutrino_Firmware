@@ -39,7 +39,7 @@
 #----------------------------------------------------------------------------
 
 # Target file name (without extension).
-TARGET = kc60_lufa
+TARGET = neutrino_lufa
 
 # Directory common source filess exist
 TMK_DIR = ../../tmk_core
